@@ -12,6 +12,7 @@ Features
 How to Run
 1. Compile server.cpp and client.cpp using MinGW:
 g++ server.cpp -o server.exe -lws2_32
+
 g++ client.cpp -o client.exe -lws2_32
 2. Run the server first:
 ./server.exe
